@@ -12,5 +12,5 @@ requires:
 
 Wind Waker:
   death_link:
-    true: 50
-    false: 0
+    true: 0
+    false: 50
